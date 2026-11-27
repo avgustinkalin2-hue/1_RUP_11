@@ -1,54 +1,30 @@
 ﻿  ConsoleApplication1.cpp
-C:\Users\Student\Documents\1 руп 11 калин\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(8,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Users\Student\Documents\1 руп 11 калин\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(32,1): error C2059: синтаксическая ошибка: for
-C:\Users\Student\Documents\1 руп 11 калин\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(32,15): error C2143: синтаксическая ошибка: отсутствие ")" перед ";"
-C:\Users\Student\Documents\1 руп 11 калин\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(32,23): error C2143: синтаксическая ошибка: отсутствие ">" перед ";"
-C:\Users\Student\Documents\1 руп 11 калин\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(32,17): error C7568: Список аргументов отсутствует после предполагаемого шаблона функции "i".
-C:\Users\Student\Documents\1 руп 11 калин\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(32,17): warning C4091: : пропускается слева от "<ошибка>", когда ни одна переменная не объявлена
-C:\Users\Student\Documents\1 руп 11 калин\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(32,26): error C2143: синтаксическая ошибка: отсутствие ";" перед "++"
-C:\Users\Student\Documents\1 руп 11 калин\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(32,25): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
-C:\Users\Student\Documents\1 руп 11 калин\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(32,26): error C2059: синтаксическая ошибка: ++
-C:\Users\Student\Documents\1 руп 11 калин\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(32,28): error C2059: синтаксическая ошибка: )
-C:\Users\Student\Documents\1 руп 11 калин\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(33,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
-C:\Users\Student\Documents\1 руп 11 калин\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(33,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
-C:\Users\Student\Documents\1 руп 11 калин\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(36,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
-C:\Users\Student\Documents\1 руп 11 калин\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(36,1): error C2086: int min: переопределение
-      C:\Users\Student\Documents\1 руп 11 калин\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(31,5):
-       см. объявление "min"
-  
-C:\Users\Student\Documents\1 руп 11 калин\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(37,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
-C:\Users\Student\Documents\1 руп 11 калин\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(37,1): error C2086: int max: переопределение
-      C:\Users\Student\Documents\1 руп 11 калин\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(31,10):
-       см. объявление "max"
-  
-C:\Users\Student\Documents\1 руп 11 калин\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(38,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
-C:\Users\Student\Documents\1 руп 11 калин\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(38,1): error C2365: printf: переопределение; предыдущим определением было "функция"
+C:\Users\Student\Documents\1руп11-26 Давид\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(12,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Student\Documents\1руп11-26 Давид\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(24,16): error C2065: i: необъявленный идентификатор
+C:\Users\Student\Documents\1руп11-26 Давид\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(27,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Student\Documents\1руп11-26 Давид\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(27,1): error C2365: printf: переопределение; предыдущим определением было "функция"
       C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stdio.h(950,37):
        см. объявление "printf"
   
-C:\Users\Student\Documents\1 руп 11 калин\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(39,1): error C2059: синтаксическая ошибка: for
-C:\Users\Student\Documents\1 руп 11 калин\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(39,15): error C2143: синтаксическая ошибка: отсутствие ")" перед ";"
-C:\Users\Student\Documents\1 руп 11 калин\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(39,19): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
-C:\Users\Student\Documents\1 руп 11 калин\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(39,17): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
-C:\Users\Student\Documents\1 руп 11 калин\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(39,17): error C2086: int i: переопределение
-      C:\Users\Student\Documents\1 руп 11 калин\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(32,25):
-       см. объявление "i"
-  
-C:\Users\Student\Documents\1 руп 11 калин\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(39,19): error C2059: синтаксическая ошибка: <
-C:\Users\Student\Documents\1 руп 11 калин\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(39,26): error C2143: синтаксическая ошибка: отсутствие ";" перед "++"
-C:\Users\Student\Documents\1 руп 11 калин\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(39,25): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
-C:\Users\Student\Documents\1 руп 11 калин\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(39,25): error C2086: int i: переопределение
-      C:\Users\Student\Documents\1 руп 11 калин\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(32,25):
-       см. объявление "i"
-  
-C:\Users\Student\Documents\1 руп 11 калин\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(39,26): error C2059: синтаксическая ошибка: ++
-C:\Users\Student\Documents\1 руп 11 калин\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(39,28): error C2059: синтаксическая ошибка: )
-C:\Users\Student\Documents\1 руп 11 калин\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(40,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
-C:\Users\Student\Documents\1 руп 11 калин\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(40,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
-C:\Users\Student\Documents\1 руп 11 калин\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(45,8): warning C4129: "%": нераспознанная escape-последовательность символов
-C:\Users\Student\Documents\1 руп 11 калин\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(45,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
-C:\Users\Student\Documents\1 руп 11 калин\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(45,1): error C2365: printf: переопределение; предыдущим определением было "функция"
+C:\Users\Student\Documents\1руп11-26 Давид\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(28,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Student\Documents\1руп11-26 Давид\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(28,1): error C2365: printf: переопределение; предыдущим определением было "функция"
       C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stdio.h(950,37):
        см. объявление "printf"
   
-C:\Users\Student\Documents\1 руп 11 калин\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(50,1): error C1004: непредвиденное обнаружение конца файла
+C:\Users\Student\Documents\1руп11-26 Давид\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(29,1): error C2059: синтаксическая ошибка: for
+C:\Users\Student\Documents\1руп11-26 Давид\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(29,15): error C2143: синтаксическая ошибка: отсутствие ")" перед ";"
+C:\Users\Student\Documents\1руп11-26 Давид\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(29,19): error C2143: синтаксическая ошибка: отсутствие ";" перед ">="
+C:\Users\Student\Documents\1руп11-26 Давид\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(29,17): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Student\Documents\1руп11-26 Давид\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(29,19): error C2059: синтаксическая ошибка: >=
+C:\Users\Student\Documents\1руп11-26 Давид\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(29,26): error C2143: синтаксическая ошибка: отсутствие ";" перед "--"
+C:\Users\Student\Documents\1руп11-26 Давид\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(29,25): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Student\Documents\1руп11-26 Давид\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(29,25): error C2086: int i: переопределение
+      C:\Users\Student\Documents\1руп11-26 Давид\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(29,17):
+       см. объявление "i"
+  
+C:\Users\Student\Documents\1руп11-26 Давид\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(29,26): error C2059: синтаксическая ошибка: --
+C:\Users\Student\Documents\1руп11-26 Давид\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(29,28): error C2059: синтаксическая ошибка: )
+C:\Users\Student\Documents\1руп11-26 Давид\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(31,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\Student\Documents\1руп11-26 Давид\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(31,1): error C2059: синтаксическая ошибка: }
+C:\Users\Student\Documents\1руп11-26 Давид\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(33,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\Student\Documents\1руп11-26 Давид\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(33,1): error C2059: синтаксическая ошибка: }
